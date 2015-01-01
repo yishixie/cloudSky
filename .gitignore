@@ -10,3 +10,7 @@
 *.webm
 
 *.properties
+
+code/
+data/
+web-export/
